@@ -3,12 +3,16 @@
 
 ## About Me
 
-🔭 Currently delving deep into the realms of penetration testing and vulnerability assessment.
+🔍 Currently delving deep into the world of penetration testing and vulnerability assessment, with a focus on uncovering security flaws and strengthening digital defenses.
 
-🌱 Ever the explorer, I'm on a quest to discover the latest tools and techniques in cybersecurity and penetration testing.
+🎯 Passionate about ethical hacking consistently honing my skills and staying updated with the latest tools and techniques in offensive security.
 
-💬 Passionate about all things penetration testing, bug bounty programs and CTFs.
-📫 Drop me a line at [Email](mailto:tanvir25999@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tanvir1804-). Let's make the digital world a safer place, one vulnerability at a time!
+☁️ Also exploring the domain of cloud computing and DevOps, with a growing interest in automation, CI/CD pipelines, infrastructure as code, and cloud-native technologies.
+
+🌱 Always eager to learn, improve, and contribute to both the security and operational efficiency of digital systems.
+
+📬 Feel free to reach out via [Email](mailto:tanvir25999@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tanvir1804-).
+
 
 ## Tools & Technologies
 
@@ -35,4 +39,4 @@ Here are some of the tools and technologies I work with:
 Feel free to reach out for collaboration, questions, or just to chat about cybersecurity and all things tech!
 
 # 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
